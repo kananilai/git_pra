@@ -5,3 +5,4 @@ function great() {
 }
 
 great();
+great();
